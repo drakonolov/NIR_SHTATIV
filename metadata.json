@@ -1,0 +1,6 @@
+{
+  "name": "Оптимизация топологии ЛДНС (Хук-Дживс & DOP)",
+  "description": "Имитационная модель оптимизации размещения станций локальной дальномерной системы навигации (ЛДНС) по критериям VDOP/HDOP методом Хука-Дживса и эвристическими алгоритмами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
